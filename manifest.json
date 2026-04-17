@@ -1,9 +1,9 @@
 {
   "magic-vocals": {
-    "version": "99.0.0",
+    "version": "1.5.0",
     "release_date": "2026-04-17",
-    "mac_url": "https://curson.com.br/magic-vocals",
-    "win_url": "https://curson.com.br/magic-vocals",
+    "mac_url": "https://github.com/Magic-Plugins/releases/releases/download/magic-vocals-v1.5.0/MagicVocalsRevised-1.5.0-mac.pkg",
+    "win_url": "https://github.com/Magic-Plugins/releases/releases/download/magic-vocals-v1.5.0/MagicVocalsRevised-1.5.0-win.exe",
     "info_url": "https://curson.com.br/magic-vocals"
   }
 }
