@@ -1,9 +1,9 @@
 {
   "magic-vocals": {
-    "version": "1.6.4",
-    "release_date": "2026-04-29",
-    "mac_url": "https://github.com/Magic-Plugins/releases/releases/download/magic-vocals-v1.6.4/MagicVocalsRevised-1.6.4-mac.pkg",
-    "win_url": "https://github.com/Magic-Plugins/releases/releases/download/magic-vocals-v1.6.4/MagicVocalsRevised-1.6.4-win.exe",
+    "version": "1.6.5",
+    "release_date": "2026-04-30",
+    "mac_url": "https://github.com/Magic-Plugins/releases/releases/download/magic-vocals-v1.6.5/MagicVocalsRevised-1.6.5-mac.pkg",
+    "win_url": "https://github.com/Magic-Plugins/releases/releases/download/magic-vocals-v1.6.5/MagicVocalsRevised-1.6.5-win.exe",
     "info_url": "https://curson.com.br/magic-vocals"
   }
 }
